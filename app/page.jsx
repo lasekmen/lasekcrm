@@ -6,4 +6,3 @@ export default function HomePage() {
     </div>
   );
 }
-<p>Wersja produkcyjna</p>
